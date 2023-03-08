@@ -1,0 +1,30 @@
+feedback vertex set ; [digit] degenerate graphs ; polynomial time algorithm ; bound is tight
+hybrid analytical modeling ; pending cache hits ; hardware prefetching ; miss status holding register resources ; timeliness of pending hits ; data prefetching ; limited number of mshrs ; moving average of memory access latency
+autoimmune polyendocrinopathy candidiasis ectodermal dystrophy ; autoimmune regulator gene ; chronic mucocutaneous candidiasis ; autoimmunity ; tolerance ; pathogenesis
+aluminium casting ; solidification ; numerical solution ; two phase stefan problem ; convective heat transfer ; numerical algorithm
+aircraft structural parts ; rib features ; machining operations ; feature recognition algorithm ; cnc operation experience ; object-oriented software engineering
+harmonic balance method ; algebraic representation ; grobner base ; error bounds ; numerical computation ; computational cost
+wireless sensor networks ; graph coloring ; time division multiple access scheduling ; real time performance ; communication reliability
+geoscience modeling
+video database partitioning ; shot change detection ; camera motion analysis ; optical flow constraint ; brightness constraint
+tail asymptotics ; hol priority queues ; buffer occupancy distribution ; source pooling ; reduced service rate approximation
+parallel algorithms ; plane sweep problem ; multicore systems ; embarrassingly parallel ; design rule checking
+information technology adoption ; user perceptions ; moderating influences ; expert systems application ; personal innovativeness ; mass media ; interpersonal communication ; theoretical implications ; practical implications
+latent variable models ; classification accuracy ; generative models ; support vector machine ; perceptron learning ; discrete/continuous latent state space ; handwritten/satellite image recognition
+brain computer interface ; real time implementation ; feature extraction ; classification ; event related potentials ; eeg data collection ; prototype system
+queue output process ; ifrs property preservation ; e m e k [digit] queues
+quadraphonic headsets ; surround audio ; sound localization ; hrtf ; capz model ; reverberator ; listening tests ; privacy
+security personalization ; internet services ; security policy ; security policy negotiation
+asynchronous communication ; synchronous-asynchronous conversion ; networks on chip ; gals architectures ; low latency ; robustness
+manufacturing system design ; structuring strategies ; simulation aided approach ; logistical and organizational key data ; improvement potentialities
+ selectors ; selective families ; pseudo random generators ; fixed waking schedules methods: explicit constructions ; common technique conclusion: almost optimal deterministic protocols ; best known non constructive bounds
+selective finite element refinement ; torsional problems ; membrane analogy ; a posteriori error estimates ; maximum shearing stress calculations ; accurate calculation
+rns montgomery multiplication ; modular exponentiation ; duplicate processing ; parallel processing ; speedup
+quality in use ; usability ; value in the world ; hci ; grounded design ; novel approaches ; fit between designs ; beyond usability ; prescriptive approaches
+family [digit] gpcrs ; vertebrates ; phylogenetic analysis ; divergent receptor group ; common ancestral gene precursor
+subcarrier allocation ; ofdma networks ; blotto game ; budget allocation ; fairness ; convergence
+polymerization conditions ; thermomechanical properties ; dielectric properties ; unsaturated polyesterstyrene copolymer ; curing agent,
+cursive word recognition ; combining online and offline classifiers ; stroke order independent information ; pseudo online representation ; improved recognition
+quasi gaussian pulses ; mobile telephony ; uwb communications ; derivatives ; rectangular pulses ; filter ; comparative analysis
+linear pca ; support vector machines ; semi definite programming ; generalization ability ; convex
+umls auditing ; hybrid interface ; concept networks ; metathesaurus level ; semantic network level ; nat usefulness ; nat impact

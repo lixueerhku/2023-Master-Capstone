@@ -1,0 +1,10 @@
+{"diversity": {
+    "unique_phrase_ratio": 0.9967536450477625, 
+    "unique_token_ratio": 0.9293030646140025, 
+    "self_bleu": 0.045941712245031324, 
+    "self_edit_distance": 28.357071876770647, 
+    "self_embed_similarity_sent2vec": 0.07471456378698349, 
+    "sem_diverse_index_sent2vec": 1.9521005482450393, 
+    "self_embed_similarity_sbert": 0.08522135764360428, 
+    "sem_diverse_index_sbert": 1.8692627083511193
+    }}

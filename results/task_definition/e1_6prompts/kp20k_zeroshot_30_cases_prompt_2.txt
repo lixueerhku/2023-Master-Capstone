@@ -1,0 +1,30 @@
+feedback vertex set ; subgraph induc ; minimum feedback vertex set ; [digit] degener ; vertex graph ; polynomi time algorithm ; cardin at most
+hybrid analyt model ; perform impact ; pend cach hit ; hardwar prefetch ; miss statu hold regist ; timeli of pend hit ; limit number of mshr ; non uniform dram memori latenc ; move averag of memori access latency.
+monogen autosom recess diseas ; chronic mucocutan candidiasi ; autoimmun diseas ; autoimmun regul (aire) gene ; toler and autoimmun ; pathogenesi of the disease.
+aluminium cast ; two phase stefan problem ; convect heat transfer ; characterist method ; finit element method ; nonlinear discret problem ; numer algorithm ; industri experiment measurements.
+aircraft structur part ; rib machin oper ; computer numer control ; featur recognit algorithm ; attribut adjac graph ; local rib element ; optimis cluster group ; top level rib featur ; advanc aircraft structur part ; larg aircraft manufacturer.
+algebra represent ; grobner base ; harmon balanc method ; error bound ; singular point ; break point ; comput cost ; truncat error.
+wireless sensor network ; servic orient requir ; distribut graph color ; time divis multipl access schedul ; distanc [digit] color algorithm ; independ set ; network structur ; intra cluster delay ; intra cluster throughput ; real time perform ; commun reliability.
+geoscienc model ; model as a servic ; maa ; web interfac ; configur machin ; set up model ; manag model output ; comput demand
+shot chang detect ; camera motion ; optic flow analysi ; total bright ; scene point ; smooth camera motion ; qualit aspect ; signific know how ; experiment result ; precis performance.
+tail asymptot ; hol prioriti queue ; larg number of sourc ; long rang depend sourc ; strict prioriti rule ; two buffer ; m buffer ; sourc pool ; numer valid ; reduc servic rate approximation.
+vlsi physic design ; comput geometri ; design rule check ; rcp extract ; mask process ; embarrassingli parallel ; multicor machin ; cluster ; best known algorithm ; real world tests.
+expert system applic ; technolog accept model ; person innov ; mass media ; interperson commun ; percept develop ; adopt decis
+latent variabl model ; gener model ; classif accuraci ; determinist model ; support vector machin ; perceptron learn ; discret latent state ; princip compon analysi ; handwritten digit recognit ; satellit imag recognition.
+brain comput interfac ; featur extract ; classifi ; event relat potenti ; eeg data collect ; hex o speller
+increas failur rate ; interarriv time ; servic time ; erlang distribut ; numer exampl ; interdepartur time ; e m e k [digit] queue ; ifr properti ; theoret analysis.
+5.1 channel hear experi ; sound local capabl ; acoust pole and zero model ; subject listen test ; four channel headset ; stereo headphon ; low cost privacy.
+malici individu ; secur requir ; secur polici ; secur person ; flexibl secur ; secur polici person ; secur person prototyp
+synchron doubl left right arrow asynchron convert ; high throughput ; low latenc ; global asynchron local synchron ; cluster multi processor system ; fulli asynchron network on chip ; variou trade off ; latenc and robust ; portabl allianc cmo ; spice simul ; [digit] nm cmo fabric process.
+simul aid design ; organ model system ; structur strategi ; dynam analysi ; evalu modul ; logist key data ; organiz key data ; improv potenti ; case studi ; gear box ; robot grip arms.
+explicit construct ; combinatori object ; pseudo random gener ; determinist protocol ; broadcast ; unknown direct radio network ; wake up problem ; coin weight problem ; non construct bound ; common technique.
+membran analog ; h refin type ; a posteriori error estim ; maximum shear stress ; prismat torsion member ; integr fortran code ; delphi base environ ; multipl level applic ; analyt solut ; l section member.
+modular exponenti ; residu number system ; parallel process ; base transform ; montgomeri multipl ; speedup ; duplic process ; upper limit ; modular multiplication.
+ground design ; usabl problem ; contextu descript ; prescript approach ; valu in the world ; potenti of hci
+famili [digit] gpcr ; japanes pufferfish ; fugu rubrip ; phylogenet analysi ; calr cgrpr ; crf ; common ancestr gene precursor.
+blotto game ; low complex ; fair multius ; subcarri alloc ; uplink ofdma ; power alloc ; budget alloc ; nash equilibrium ; low complex algorithm ; uncorrel fade ; correl fading.
+polymer condit ; glass transit temperatur ; rel dielectr constant ; loss factor ; cure agent content ; mekp concentr ; styren content ; averag molecular mass ; vicker hard ; tape cast ; viscos ; ambient conditions.
+stroke order independ inform ; pseudo onlin represent ; singl engin ; classif decis ; onlin cursiv word ; offlin represent ; improv recognit
+mobil telephoni (gsm) ; uwb commun ; second order deriv ; third order deriv ; spectral mask requir ; rel error ; energi spectra
+linear pca ; support vector machin ; expect risk ; margin ; semi definit program ; data compress ; gener bound ; predict abil ; robust form ; convex ; numer result ; gener ability.
+uml audit ; neighborhood audit tool ; hybrid diagram text interfac ; metathesauru level ; semant network level ; case studi ; select group of auditors.

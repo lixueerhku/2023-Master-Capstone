@@ -1,0 +1,100 @@
+feedback vertex set ; graph theory ; degenerate graphs ; polynomial time algorithm
+hybrid analytical modeling ; performance impact ; pending cache hits ; data prefetching ; superscalar microprocessors ; memory access latency
+autoimmune polyendocrinopathy candidiasis ectodermal dystrophy ; autoimmune regulator gene ; autoimmunity ; pathogenesis of disease
+aluminium casting ; solidification ; two phase stefan problem ; numerical solution ; convective heat transfer ; finite element method ; numerical algorithm ; industrial experimental measurements
+aircraft structural parts ; rib features ; machining operations ; feature recognition algorithm ; cnc machining
+algebraic representation of error bound ; decreasing computational cost of error bound ; accurate break points of error bound
+wireless sensor networks ; graph coloring ; tdma scheduling ; real-time performance ; communication reliability
+model as a service ; geoscience modeling ; computing demands for geoscience models
+video database management ; shot change detection ; camera motion analysis ; brightness constraint
+tail asymptotics ; buffer occupancy distribution ; hol priority queues ; stationary sources ; long range dependent sources ; source pooling
+parallel algorithms ; vlsi physical design ; rectangle intersection problem ; multicore machines ; clusters ; embarrassingly parallel
+information technology adoption ; perception development ; moderating influences ; personal innovativeness ; mass media ; interpersonal communication
+classification with latent variable models ; generative models for classification ; support vector machine learning ; handwritten digit recognition ; satellite image recognition
+brain computer interface ; real time implementation ; feature extraction ; event related potentials ; eeg data collection
+queues ; interdeparture time ; interarrival time ; service time ; increasing failure rate property
+quadraphonic headsets ; surround audio ; head related transfer function ; moorer's reverberator ; capz model ; sound localization ; low cost privacy
+internet security ; service security ; security policy personalization ; security policy negotiation
+converting synchronous to asynchronous communication protocol ; network on chip in gals architectures ; low latency and high throughput converters ; cmos fabrication process
+simulation aided design ; manufacturing systems ; structuring strategies ; logistical key data ; organizational key data ; ifab institute
+selectors ; combinatorial structures ; broadcasting ; radio networks ; coin weighting problems
+finite element refinement ; torsional analysis ; membrane analogy ; maximum shearing stress ; a posteriori error estimation
+rns montgomery multiplication ; modular exponentiation ; parallel processing ; base transformations ; speedup
+hci ; quality in use ; value in the world ; contextual description ; prescriptive approaches
+family [digit] gpcrs ; comparative study ; fugu rubripes ; vertebrate genome ; phylogenetic analysis
+subcarrier allocation ; blotto game ; ofdma networks ; nash equilibrium ; fair resource allocation
+polymerization conditions ; thermomechanical properties ; dielectric properties ; unsaturated polyesterstyrene copolymers ; glass transition temperature ; relative dielectric constant ; loss factors
+cursive word recognition ; online and offline representation ; classification decisions ; combination of classifiers
+gaussian pulses ; communications ; mobile telephony ; pulse responses ; spectral mask
+linear pca ; support vector machines ; semi definite programming ; data compression ; generalization ability ; robust form ; soft idea ; numerical results
+umls auditing ; neighborhood auditing tool ; hybrid diagram text interface ; inconsistencies detection ; semantic network level
+global optimization ; cluster effect ; exclusion regions ; uniqueness tests ; krawczyk operator
+meetings ; decision making ; dialogue acts ; persuasive language ; data-driven approach
+expert interface system ; photogrammetric and gis integration ; intelligent spatial data preparation
+vanets ; evidence creation ; verification ; traffic situations ; vehicle mounted sensorial devices ; surrounding vehicles ; data exchange mechanism ; witnesses testimonies
+typed lambda calculus ; normal forms ; partial evaluation ; logical relations
+flash based solid state storage ; write optimized dbms layer ; incremental logging ; performance enhancement ; i/o processing time
+wrinkle development ; thin sail-like structures ; mitc shell finite elements ; wrinkling behaviour ; non-linear mitc shell elements ; spherical and cylindrical shapes ; downwind sails analysis
+graph coloring ; integer programming ; vertex coloring polytope ; strong perfect graph theorem ; induced inequalities
+clustering algorithm ; pwarx identification ; olive oil esterification reactor ; simulation results
+asymmetric prize collecting tsp ; approximation algorithm ; combinatorial approximation algorithm ; held karp relaxation ; heuristic methods
+ambient intelligence ; second order ambient intelligence ; future of ambient intelligence ; research agendas
+surface plasmon resonance sensors ; mems technology ; bulk silicon micromachining ; polymer replication ; fresnel analysis ; refractive index ; spr angle ; spr curve
+strain field measurement ; isogeometric analysis ; digital image correlation ; fatigue tensile test ; non uniform rational b spline ; constitutive law identification
+dirichlet-neumann operator ; functional variation ; numerical stability ; spectral accuracy ; euler's equations ; free surface fluid flows
+machining process planning ; 2.5 d milling ; solid modeling ; voronoi mountain
+text mining ; lexical knowledge ; data mining ; novelty estimation ; knowledge hierarchy ; automatic scoring ; human judgments
+independence system ; algorithm optimization ; routine design ; engineering design problem
+superconvergence ; high order galerkin finite element methods ; elliptic equation of second order
+design pattern mining ; software system design ; source code mining ; re-engineering ; expert experience reuse
+nonholonomic systems ; canonical chained form ; discontinuous control law ; stabilization ; manipulator control
+mechanism design ; scheduling problem ; approximation ratio ; two range values ; cycle monotone condition
+certified discrete log cryptosystems ; diffie hellman key exchange scheme ; shamir [digit] pass key transmission scheme ; sakurai shizuya
+slanted axial flow pump ; hydraulic performance ; hydraulic thrust ; computational fluid dynamics
+cryptographic algorithms ; fpga security ; modular exponentiation ; rsa decryption
+power system dynamic security evaluation ; supervised and unsupervised learning ; artificial neural networks ; stability margin estimation
+cmos transmit receive switch ; 2.4 ghz ism band ; 0.35 μm bulk cmos process ; insertion loss optimization
+equivalence checking ; multiple valued functions ; probabilistic method ; finite field ; polynomial evaluation ; deterministic methods
+multimedia document production ; multimedia corpus ; document engineering ; document requirements ; multimedia scholarly reading practices
+seizure monitoring ; energy efficient ambulatory medical monitoring ; non-invasive seizure onset detection ; machine learning ; patient-specific detectors ; eeg monitoring device ; battery powered device ; energy consumption model
+process synchronization ; shared data ; operating system architecture ; intrinsic reliability
+rfid ; supply chain management ; artificial immune system ; fuzzy neural network ; positioning system ; globalization ; elsevier ltd
+software pipelining ; loop nest optimization ; multidimensional data dependence graph ; modulo scheduling ; hyperplane scheduling ; instruction level scheduling ; performance improvement
+recognizing overlapping particles ; geometric based method ; polygonal shapes ; gray tone images ; salient corners ; clustering technique ; batch cooling crystallization ; ammonium oxalate
+explicit dimension reduction ; linear transformations ; linear threshold functions ; spherical digons ; goemans williamson max cut algorithm ; oblivious derandomization ; approximation algorithms
+capital one ; credit card industry ; newly vulnerable markets ; information based strategies ; double digit return on equity ; double digit increase in sales volume and profits
+applied geometric problems ; infinitesimal mechanics ; graphical statics ; applied projective geometry ; scene analysis
+online image advertising ; contextual advertising system ; visual similarity ; image salience detection ; web page text relevance
+ofdm systems ; papr reduction ; ldpc coded ; subcarrier phase control
+sat-based decision procedure ; mathematical solver for lal ; theory driven backjumping and learning ; static learning ; problem clustering ; layering for mathematical reasoning ; comparison with state of the art decision procedures
+combinatorial invariants ; finite rank graphs ; generalized quadrangles ; strongly regular graphs ; klin conjecture
+vector optimization ; characterizing pareto optima ; weak efficiency ; strong epsilon subdifferentials
+text mining ; visual clustering ; unstructured text sequences ; keyword clusters ; visual analysis ; domain knowledge ; nursing narratives ; semantic features ; distribution features
+telecommunications development ; economic growth ; productivity growth ; mobile telecommunications ; total factor productivity ; competition and privatization
+multimedia effect ; mental representations ; information processing ; outcome oriented view ; process oriented view
+graphs ; edge connectivity ; minimum degree ; p diameter ; elsevier b.v
+comparative analysis ; ir evaluation ; transaction logs ; clicks vs relevance judgments ; system ranking
+poetry ; rhapsody ; jonathan swift ; splitting the difference
+s2 s [digit] quasicontinuous posets ; way below relations ; interpolation property ; [digit] [digit] topology
+polynomial hierarchy ; multivalued functions ; polynomial time hierarchy ; megiddo ; papadimitriou ; invertible functions
+unsupervised object segmentation ; hybrid graph model ; data clustering ; markov chain ; minimal cut
+wave splittings ; structural elements ; radial scattering ; dispersion-free solutions ; imbedding method
+data filter cache design ; energy efficiency improvement ; performance enhancement ; data access optimization
+anomalous positive bias temperature instability ; hfo2 nfets ; charge exchange ; lifetime extrapolation
+evolutionary algorithms ; dynamic fitness functions ; multiple optima ; social behaviour evolution ; evolutionary game theory ; benchmark problem generator
+planar c1 c [digit] hermite interpolation ; ph cuts ; degree (1,3) ([digit] ; [digit]) of laurent series ; ph skew cut interpolants ; regular ph interpolants ; collinear c1 c [digit] hermite data sets
+acoustic emissions signal ; precision cutting processes ; bicepstrum based blind identification ; diamond turning experiments
+hierarchical problem solving ; top down control ; evolutionary dynamics ; stabilizing selection pressure ; information transfer capacity
+thai medical symptom ; information extraction ; rule learning ; classification model
+doa estimation ; signal coexistence ; array geometry ; subspace techniques ; sparse reconstruction
+checkpoint allocation ; checkpoint release ; microarchitectures ; leakage power ; register file
+augmented reality ; soft shadows ; real light sources ; quadratic spline interpolation ; detail multi layer
+quantum well infrared photodetector ; airdielectricmetal waveguide ; hybrid structure ; optical coupling ; resonant mode ; effective refractive index
+mpls network systems ; fault tolerance ; recovery mechanisms ; ip tunneling ; permission token scheme
+cross language comparison shopping agent ; multilingual ontology ; product categorization ; semantic search mechanism
+hospital authority ; medical informatics ; information systems ; clinical management system ; longitudinal electronic patient record ; clinical decision support
+network fusion ; topological similarity ; phenotype data ; random walk algorithm ; disease gene prioritization
+beta regression ; bias correction ; recursive partitioning ; finite mixture models ; model-based analysis
+combinatorial optimization problems ; decision making ; multicriteria design ; software design ; network topology design ; information retrieval ; software evolution
+riemann surfaces ; polynomial factorization ; continuation methods ; uniform distributions ; symmetric group ; transpositions
+decision aggregation ; modular neural network ; feature-based decision aggregation ; dynamic decision fusion
